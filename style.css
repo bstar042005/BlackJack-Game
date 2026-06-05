@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: purple;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color: pink;
+}
+
+.container {
+    margin-top: 100px;
+}
+
+h1 {
+    color: black;
+    font-size: 50px;
+}
+
+button {
+    background: pink;
+    color: purple;
+    border: none;
+    padding: 12px 25px;
+    margin: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background:black;
+}
+
+p {
+    font-size: 24px;
+}
